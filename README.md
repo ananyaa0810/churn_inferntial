@@ -7,7 +7,7 @@ This project predicts *customer churn* — identifying customers likely to disco
 
 ## 📁 Dataset Information  
 *Source:* [Kaggle - Customer Churn Dataset](https://www.kaggle.com/)  
-(Replace the link with the specific dataset you used)  
+
 
 *Description:*  
 The dataset includes customer demographics, account details, and usage metrics.  
